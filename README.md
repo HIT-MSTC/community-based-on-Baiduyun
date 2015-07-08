@@ -1,15 +1,15 @@
 # community-based-on-Baiduyun
 it can be used to share something interesting  ＼(＾∀＾)メ(＾∀＾)ノ
 
-项目简介
+<h1>项目简介</h1>
 	为志同道合的人提供一个分享社区
 	以及以文件分享为核心的简单社交
 
-所用技术
+<h1>所用技术</h1>
 	Php
 	百度云php	SDK
 
-设计思路
+<h1>设计思路</h1>
 	整个社区基于web搭建，有利于各个平台的使用，通过网站后台对api的调用，使用户通过简单操作就能实现下列操作
 	
 	用户 
@@ -26,6 +26,6 @@ it can be used to share something interesting  ＼(＾∀＾)メ(＾∀＾)ノ
 		  类似论坛社交形式
 	  文件的排名
 	
-成员
+<h1>成员</h1>
 	刘奇
 	李宁
